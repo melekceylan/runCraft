@@ -1,0 +1,11 @@
+Model Information:
+* title:	diamond ax
+* source:	https://sketchfab.com/3d-models/diamond-ax-03c9b9c7913c48b2825ae55ddd8d022e
+* author:	brandonsuriel (https://sketchfab.com/brandonsuriel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "diamond ax" (https://sketchfab.com/3d-models/diamond-ax-03c9b9c7913c48b2825ae55ddd8d022e) by brandonsuriel (https://sketchfab.com/brandonsuriel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
